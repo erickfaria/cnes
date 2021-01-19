@@ -4,7 +4,6 @@
 Versão Python: 112020
 
 ## Cadastro Nacional de Estabelecimentos de Saúde
-"""
 
 #Faz as importações dos pacotes
 import pandas as pd
